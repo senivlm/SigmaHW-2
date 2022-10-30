@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW_1_Sidletskyi", "HW_1_Sidletskyi\HW_1_Sidletskyi.csproj", "{2402FFA9-4C0C-4336-B869-C9DFA28D2832}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW_2_Sidletskyi", "HW_2_Sidletskyi\HW_2_Sidletskyi.csproj", "{C4DDD61E-ED48-40CD-B8B1-DF17C88674E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2402FFA9-4C0C-4336-B869-C9DFA28D2832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2402FFA9-4C0C-4336-B869-C9DFA28D2832}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2402FFA9-4C0C-4336-B869-C9DFA28D2832}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2402FFA9-4C0C-4336-B869-C9DFA28D2832}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4DDD61E-ED48-40CD-B8B1-DF17C88674E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4DDD61E-ED48-40CD-B8B1-DF17C88674E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4DDD61E-ED48-40CD-B8B1-DF17C88674E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4DDD61E-ED48-40CD-B8B1-DF17C88674E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15A4B044-1756-44CB-A003-D1AA39552EEC}
+	EndGlobalSection
+EndGlobal
