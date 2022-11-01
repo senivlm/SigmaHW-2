@@ -1,5 +1,5 @@
 ﻿namespace HW_1_Sidletskyi
-{
+{// Чек має бути формою звітності про покупку, яка може включати кілька продуктів.
     public class Check
     {
         public string CreateCheck(Product product, Buy buy)
